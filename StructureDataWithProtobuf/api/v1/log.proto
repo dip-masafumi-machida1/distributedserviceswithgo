@@ -1,0 +1,10 @@
+syntax = "proto3";
+
+package api.v1;
+
+option go_package = "github.com/dip-masafumi-machida1/distributedserviceswithgo/api/log_v1";
+
+message Recode {
+    bytes value = 1;
+    uint64 offset = 2;
+}
