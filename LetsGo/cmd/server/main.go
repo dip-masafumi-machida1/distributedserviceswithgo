@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/dip-masafumi-machida1/distributerdserviceswithgo/LetsGo/internal/server"
+	"github.com/dip-masafumi-machida1/distributedserviceswithgo/LetsGo/internal/server"
 )
 
 func main() {

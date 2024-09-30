@@ -1,4 +1,4 @@
-# letsgo
+# Distributed Services with Go
 Go言語による分散サービスのハンズオンリポジトリ<br>
 
 ## 環境構築

@@ -1,4 +1,4 @@
-module github.com/dip-masafumi-machida1/distributerdserviceswithgo
+module github.com/dip-masafumi-machida1/distributedserviceswithgo
 
 go 1.23.0
 
