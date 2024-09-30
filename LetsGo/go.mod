@@ -1,4 +1,4 @@
-module github.com/dip-masafumi-machida1/distributedserviceswithgo
+module github.com/dip-masafumi-machida1/distributedserviceswithgo/LetsGo
 
 go 1.23.0
 
